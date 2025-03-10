@@ -1,0 +1,9 @@
+# /etc/systemd/network/static.network
+# See also https://www.debian.org/doc/manuals/debian-reference/ch05.en.html
+
+[Match]
+Name=en*
+
+[Network]
+Address=10.200.200.2/24
+Gateway=10.200.200.1
