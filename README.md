@@ -5,6 +5,7 @@ Networking configurations for different NOS
 - [Debian](/debian)
 - [FRRouting](/frrouting)
 - [VyOS](/vyos)
+- [BSD](/bsd)
 
 
 
