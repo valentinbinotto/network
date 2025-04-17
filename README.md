@@ -6,6 +6,7 @@ Networking configurations for different NOS
 - [FRRouting](/frrouting)
 - [VyOS](/vyos)
 - [BSD](/bsd)
+    - [FreeBSD](/bsd/freebsd)
 
 
 
